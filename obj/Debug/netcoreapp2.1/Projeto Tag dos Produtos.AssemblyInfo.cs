@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto Tag dos Produtos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6197a66f9f272c52f20ea94342c330054aaf63f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto Tag dos Produtos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto Tag dos Produtos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

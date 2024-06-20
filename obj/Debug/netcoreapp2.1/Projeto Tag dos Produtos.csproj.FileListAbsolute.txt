@@ -1,0 +1,14 @@
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.csproj.AssemblyReference.cache
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.AssemblyInfoInputs.cache
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.AssemblyInfo.cs
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.csproj.CoreCompileInputs.cache
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.sourcelink.json
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\bin\Debug\netcoreapp2.1\Projeto Tag dos Produtos.deps.json
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\bin\Debug\netcoreapp2.1\Projeto Tag dos Produtos.runtimeconfig.json
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\bin\Debug\netcoreapp2.1\Projeto Tag dos Produtos.runtimeconfig.dev.json
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\bin\Debug\netcoreapp2.1\Projeto Tag dos Produtos.dll
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\bin\Debug\netcoreapp2.1\Projeto Tag dos Produtos.pdb
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.dll
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.pdb
+C:\Users\gio1p\Documents\wp-Csharp\Projeto Tag dos Produtos\Projeto Tag dos Produtos\obj\Debug\netcoreapp2.1\Projeto Tag dos Produtos.genruntimeconfig.cache
